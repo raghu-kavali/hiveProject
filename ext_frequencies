@@ -6,5 +6,5 @@ CREATE EXTERNAL TABLE frequencies (
 )
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ','
-LOCATION'/user/fall2019/raghu/project4/frequencies/'
+LOCATION'/user/fall2019/surya/project4/frequencies/'
     
